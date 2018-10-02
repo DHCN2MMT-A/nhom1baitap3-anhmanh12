@@ -1,0 +1,67 @@
+img{
+	border-radius: 50%;
+}
+
+nav ul li {
+	/* float: right; */
+	text-align: right;
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav ul {
+	text-align: right;
+}
+h1{
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	font-size: 50px;
+}
+h2{
+	color: blue;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 40px;
+}
+body{
+	text-align: center;
+	background: #99ffff;
+}
+div p{
+	text-align: left;
+	width: 60%;
+	margin-left: 20%;
+	font-size: 20px;
+}
+.bright{
+	color: red;
+}
+div p.bright a.spl-linkb{
+	color: #ffff;
+	background: #FF7F24;
+	text-decoration: none;
+	border: 5px solid #FF7F24;
+	border-radius: 4%;
+}
+div p.bright a.spl-linka{
+	color: #ffff;
+	background: #99cccc;
+	text-decoration: none;
+	border: 5px solid #99cccc;
+	border-radius: 4%;
+}
+div.interesting ol{
+	color: blue;
+	margin-left: 20%;
+	text-align: left;
+	font: 400 30px/0.8 'Great Vibes', Helvetica, sans-serif;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+div.interesting div h3{
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 30px;
+}
